@@ -23,7 +23,5 @@
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/bitfocus/companion-module-media-player-classic/issues"
-	},
-	"dependencies": {
 	}
 }
