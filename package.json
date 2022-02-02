@@ -1,6 +1,6 @@
 {
-  "name": "media-player-classic",
-	"version": "1.0.0",
+	"name": "media-player-classic",
+	"version": "1.0.1",
 	"api_version": "1.0.0",
 	"description": "Media Player Classic",
 	"keywords": [
@@ -10,7 +10,7 @@
 	"manufacturer": "MPC-HC",
 	"product": "Media Player Classic",
 	"shortname": "MPC",
- 	"homepage": "https://github.com/bitfocus/companion-module-media-player-classic#readme",
+	"homepage": "https://github.com/bitfocus/companion-module-media-player-classic#readme",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
